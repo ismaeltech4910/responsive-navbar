@@ -118,7 +118,7 @@ h1 {
 .mobile-toggle .nav-toggle {
     position: absolute;
     height: 5px;
-    width: 50px;
+    width: 40px;
     left: 50%;
     top: 50%;
     background-color: white;
